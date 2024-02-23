@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * _sub - sub top of stack y second top stack
+ * _sub - sub top of stack y  stack
  * @stack: pointer to lists for monty stack
  * @line_number: number of line opcode occurs on
  */
